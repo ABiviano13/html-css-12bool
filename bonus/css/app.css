@@ -1,0 +1,12 @@
+[class*='col-']{
+    background-color: rgb(168, 104, 233);
+    color: white;
+    border: 1px solid currentColor;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h1{
+    color: rgb(132, 132, 132);
+}
